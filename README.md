@@ -1,9 +1,11 @@
 # OLED Stats
 
+4/15/25 - Same as mklements's base at this time.  The changes once posted, will use a INA219 for a simple battery indicator to the OLED screen.
+
 OLED Stats Display Script For A Raspberry Pi Running Raspberry Pi OS Bookworm. The installation process and script has been tested on a Pi 3, 4 and 5.
 
-Full setup instructions available on my blog - https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bookworm/
-Or my Youtube Channel - https://youtu.be/pdaDvPCdAlY
+Full setup instructions available on mklements's blog - https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bookworm/
+Or mklements's Youtube Channel - https://youtu.be/pdaDvPCdAlY
 
 The script is pre-configured for 128x64 I2C OLED Display, but can easily be modified to run on a 128x32 I2C OLED Display
 
